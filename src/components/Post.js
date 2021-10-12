@@ -21,19 +21,15 @@ const Post = () =>{
     <Card className={classes.card}>
         <CardActionArea>
             <CardMedia className={classes.media}
-            image="/static/images/cards/contemplative-reptile.jpg"
+            image="img1.jpg"
             title="my post"
             />
             <CardContent>
                     <Typography gutterBottom variant="h5" component="div">
-                Lizard
+                Lorem Ipsum
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                Lizards are a widespread group of squamate reptiles, with over 6,000
-                species, ranging across all continents except Antarctica  Lizards are a widespread group of squamate reptiles, with over 6,000
-                species, ranging across all continents except Antarctica  Lizards are a widespread group of squamate reptiles, with over 6,000
-                species, ranging across all continents except Antarctica species, ranging across all continents except Antarctica  Lizards are a widespread group of squamate reptiles, with over 6,000
-                species, ranging across all continents except Antarctica  Lizards are a widespread group of squamate reptiles, with over 6,000
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
                 
                 </Typography>
             </CardContent>
